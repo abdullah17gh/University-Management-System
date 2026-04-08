@@ -1,4 +1,3 @@
-# University-Management-System
 # 🎓 University Student Management System (C Language)
 
 A comprehensive **console-based Student Management System** developed in **C programming language**. This project is designed to manage student records, courses, attendance, and academic performance efficiently using file handling.
